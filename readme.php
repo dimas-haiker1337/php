@@ -211,7 +211,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
           <small>AnonSec Team</small>
           <br>
           <img src="https://i.imgur.com/OjF1rUq.png" width="220" height="220" loading="lazy" onerror="this.style.display = 'none'">
-          <br>Hacked By <red><i>./Outsiders ft ./G1L4N6_ST86</i></red><br>
+          <br>Hacked By <red><i>./Outsiders</i></red><br>
           <font size="2" id="hekerabies">Wh00pz ! your security get down !</font><br><br>
           <small>
             <font size="1" color="gray">kangtikung@protonmail.com</font>
