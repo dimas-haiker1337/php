@@ -214,7 +214,7 @@ if ($editing_file && file_exists($editing_file) && is_file($editing_file)) {
 
     <meta name="googlebot" content="noindex, nofollow">
 
-    <meta name="description" content="Sukabumi Blackhat">
+    <meta name="description" content="Tarmizi Hacker Crew">
 
     <link rel="icon" href="https://tools.sukabumiblackhat.com/es.jpg">
 
